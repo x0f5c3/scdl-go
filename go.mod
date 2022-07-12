@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/pterm/pterm v0.12.42
 	github.com/spf13/cobra v1.5.0
-	github.com/x0f5c3/pcli v0.4.7
+	github.com/x0f5c3/pcli v0.5.0
 )
 
 require (
@@ -21,8 +21,9 @@ require (
 	github.com/tidwall/gjson v1.14.1 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
+	github.com/x0f5c3/pterm v0.12.50 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
-	golang.org/x/sys v0.0.0-20220627191245-f75cf1eec38b // indirect
+	golang.org/x/sys v0.0.0-20220712014510-0a85c31ab51e // indirect
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
