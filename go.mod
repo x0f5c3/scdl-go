@@ -3,7 +3,7 @@ module github.com/x0f5c3/scdl-go
 go 1.18
 
 require (
-	github.com/pterm/pterm v0.12.42
+	github.com/pterm/pterm v0.12.46
 	github.com/spf13/cobra v1.5.0
 	github.com/x0f5c3/pcli v0.4.7
 )
