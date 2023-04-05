@@ -190,4 +190,4 @@ Simply type scdl-go help [path to command] for full details.
 
 
 ---
-> **Documentation automatically generated with [PTerm](https://github.com/x0f5c3/cli-template) on 01 July 2022**
+> **Documentation automatically generated with [PTerm](https://github.com/x0f5c3/cli-template) on 05 April 2023**
